@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="bstackdemo.com Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/E-Commerce_Project/src/test/java/bstackdemo__TestCase/LoginTest_01.java">
+        <classes>
+            <class name="bstackdemo__TestCase.LoginTest_01"/>
+            <class name="bstackdemo__TestCase.CartTests_02"/>
+            <class name="bstackdemo__TestCase.CheckOutTest_03"/>
+        </classes>
+    </test>
+</suite>
